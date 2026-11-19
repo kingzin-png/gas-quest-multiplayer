@@ -1,0 +1,236 @@
+[
+  {
+    "phase": "Introdução",
+    "question": "Quais são as três principais grandezas dos gases?",
+    "options": [
+      "Pressão, volume e temperatura",
+      "Cor, massa e brilho",
+      "Força, luz e som",
+      "Tempo, área e altura"
+    ],
+    "correct": 0,
+    "hint": "São representadas por P, V e T.",
+    "explanation": "Pressão, volume e temperatura descrevem o estado de um gás."
+  },
+  {
+    "phase": "Introdução",
+    "question": "Qual unidade de temperatura usamos nas equações dos gases?",
+    "options": [
+      "Celsius",
+      "Kelvin",
+      "Fahrenheit",
+      "Qualquer uma"
+    ],
+    "correct": 1,
+    "hint": "É a escala absoluta.",
+    "explanation": "Usamos kelvin (K)."
+  },
+  {
+    "phase": "Introdução",
+    "question": "Em um gás ideal, as partículas:",
+    "options": [
+      "Ficam paradas",
+      "Não colidem",
+      "Movem-se continuamente",
+      "Possuem volume enorme"
+    ],
+    "correct": 2,
+    "hint": "Imagine partículas em movimento.",
+    "explanation": "As partículas estão em movimento contínuo."
+  },
+  {
+    "phase": "Lei de Boyle",
+    "question": "Na transformação isotérmica, qual grandeza é constante?",
+    "options": [
+      "Temperatura",
+      "Volume",
+      "Pressão",
+      "Densidade"
+    ],
+    "correct": 0,
+    "hint": "Térmica está relacionada à temperatura.",
+    "explanation": "A temperatura permanece constante."
+  },
+  {
+    "phase": "Lei de Boyle",
+    "question": "Se o volume diminui com temperatura constante, a pressão:",
+    "options": [
+      "Diminui",
+      "Aumenta",
+      "Zera",
+      "Não muda"
+    ],
+    "correct": 1,
+    "hint": "Pressão e volume são inversamente proporcionais.",
+    "explanation": "A pressão aumenta quando o volume diminui."
+  },
+  {
+    "phase": "Lei de Boyle",
+    "question": "Qual equação representa a Lei de Boyle?",
+    "options": [
+      "P₁/T₁=P₂/T₂",
+      "P₁V₁=P₂V₂",
+      "V₁/T₁=V₂/T₂",
+      "PV=nRT"
+    ],
+    "correct": 1,
+    "hint": "O produto pressão × volume é constante.",
+    "explanation": "P₁V₁=P₂V₂."
+  },
+  {
+    "phase": "Lei de Charles",
+    "question": "Em uma transformação isobárica, o que é constante?",
+    "options": [
+      "Pressão",
+      "Volume",
+      "Temperatura",
+      "Energia"
+    ],
+    "correct": 0,
+    "hint": "Bar significa pressão.",
+    "explanation": "A pressão permanece constante."
+  },
+  {
+    "phase": "Lei de Charles",
+    "question": "Se a temperatura em kelvin dobra, sob pressão constante, o volume:",
+    "options": [
+      "Cai pela metade",
+      "Dobra",
+      "Não muda",
+      "Zera"
+    ],
+    "correct": 1,
+    "hint": "Volume e temperatura são diretamente proporcionais.",
+    "explanation": "O volume dobra."
+  },
+  {
+    "phase": "Lei de Charles",
+    "question": "Qual expressão representa a Lei de Charles?",
+    "options": [
+      "P₁V₁=P₂V₂",
+      "P₁/T₁=P₂/T₂",
+      "V₁/T₁=V₂/T₂",
+      "P+V=T"
+    ],
+    "correct": 2,
+    "hint": "Relacione V e T.",
+    "explanation": "V₁/T₁=V₂/T₂."
+  },
+  {
+    "phase": "Gay-Lussac",
+    "question": "Em uma transformação isovolumétrica, permanece constante:",
+    "options": [
+      "Temperatura",
+      "Volume",
+      "Pressão",
+      "Quantidade de energia"
+    ],
+    "correct": 1,
+    "hint": "Observe a palavra volume.",
+    "explanation": "O volume é constante."
+  },
+  {
+    "phase": "Gay-Lussac",
+    "question": "Com volume constante, se a temperatura em kelvin aumenta, a pressão:",
+    "options": [
+      "Diminui",
+      "Aumenta",
+      "Zera",
+      "Não muda"
+    ],
+    "correct": 1,
+    "hint": "São diretamente proporcionais.",
+    "explanation": "A pressão aumenta."
+  },
+  {
+    "phase": "Gay-Lussac",
+    "question": "Qual expressão representa a lei de Gay-Lussac?",
+    "options": [
+      "P₁/T₁=P₂/T₂",
+      "V₁/T₁=V₂/T₂",
+      "P₁V₁=P₂V₂",
+      "PV=nRT"
+    ],
+    "correct": 0,
+    "hint": "Relacione P e T.",
+    "explanation": "P₁/T₁=P₂/T₂."
+  },
+  {
+    "phase": "Clapeyron",
+    "question": "Qual é a equação dos gases ideais?",
+    "options": [
+      "PV=nRT",
+      "P+V=nRT",
+      "PV=T/n",
+      "V=n/P"
+    ],
+    "correct": 0,
+    "hint": "Reúne P, V, n, R e T.",
+    "explanation": "PV=nRT."
+  },
+  {
+    "phase": "Clapeyron",
+    "question": "Na equação PV=nRT, n significa:",
+    "options": [
+      "Número de recipientes",
+      "Quantidade de matéria (mol)",
+      "Número de graus",
+      "Volume"
+    ],
+    "correct": 1,
+    "hint": "Sua unidade é mol.",
+    "explanation": "n representa a quantidade de matéria."
+  },
+  {
+    "phase": "Clapeyron",
+    "question": "Na equação PV=nRT, R representa:",
+    "options": [
+      "Raio",
+      "Resistência",
+      "Constante dos gases",
+      "Rendimento"
+    ],
+    "correct": 2,
+    "hint": "É uma constante física.",
+    "explanation": "R é a constante universal dos gases."
+  },
+  {
+    "phase": "Desafio final",
+    "question": "Um gás ocupa 2 L a 3 atm. A temperatura é constante. Se passa a 1 L, a pressão será:",
+    "options": [
+      "1,5 atm",
+      "3 atm",
+      "6 atm",
+      "9 atm"
+    ],
+    "correct": 2,
+    "hint": "Use P₁V₁=P₂V₂.",
+    "explanation": "3×2=6 atm·L, então P₂=6 atm."
+  },
+  {
+    "phase": "Desafio final",
+    "question": "Um gás ocupa 4 L a 300 K. A pressão é constante. A 600 K, ocupará:",
+    "options": [
+      "2 L",
+      "4 L",
+      "6 L",
+      "8 L"
+    ],
+    "correct": 3,
+    "hint": "A temperatura dobrou.",
+    "explanation": "O volume também dobra: 8 L."
+  },
+  {
+    "phase": "Desafio final",
+    "question": "Um gás está a 2 atm e 300 K. Com volume constante, vai a 450 K. A pressão será:",
+    "options": [
+      "1 atm",
+      "2 atm",
+      "3 atm",
+      "4 atm"
+    ],
+    "correct": 2,
+    "hint": "P₂=P₁×T₂/T₁.",
+    "explanation": "2×450/300=3 atm."
+  }
+]
